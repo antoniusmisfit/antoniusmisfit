@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @antoniusmisfit
 - 👀 I’m interested in Linux, retro computing, and open source
-- 📫 How to reach me ... <a rel="me" href="https://mstdn.social/@antoniusmisfit">@antoniusmisfit@mstdn.social</a>
+- 📫 How to reach me ... <a rel="me" href="https://mstdn.social/@antoniusmisfit">Mastodon</a>
 
 <!---
 antoniusmisfit/antoniusmisfit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
